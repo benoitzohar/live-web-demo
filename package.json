@@ -1,0 +1,20 @@
+{
+    "name": "live-web-demo",
+    "version": "1.0.0",
+    "description": "An auto-reloading web simple boilerplate (using Webpack) for quick JS/CSS demos",
+    "main": "src/app.js",
+    "repository": "https://github.com/benoitzohar/live-web-demo",
+    "author": "Benoit Zohar <benoit.zohar@gmail.com>",
+    "license": "Apache",
+    "scripts": {
+        "start": "webpack-dev-server --colors"
+    },
+    "devDependencies": {
+        "css-loader": "^0.28.0",
+        "extract-text-webpack-plugin": "^2.1.0",
+        "html-loader": "^0.4.5",
+        "style-loader": "^0.16.1",
+        "webpack": "^2.4.1",
+        "webpack-dev-server": "^2.4.2"
+    }
+}

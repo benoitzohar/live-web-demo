@@ -1,0 +1,12 @@
+/********************************************************************
+ * Live web demo (https://github.com/benoitzohar/live-web-demo)
+ * Main css file | style.js
+ ********************************************************************/
+
+body {
+    background: #ddd;
+    color: #333;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 28px;
+    padding: 10px
+}
