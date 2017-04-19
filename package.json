@@ -1,9 +1,9 @@
 {
-    "name": "live-web-demo",
+    "name": "live-web-playground",
     "version": "1.0.0",
-    "description": "An auto-reloading web simple boilerplate (using Webpack) for quick JS/CSS demos",
+    "description": "An auto-reloading simple web boilerplate (using Webpack) for quick JS/CSS demos",
     "main": "src/app.js",
-    "repository": "https://github.com/benoitzohar/live-web-demo",
+    "repository": "https://github.com/benoitzohar/live-web-playground",
     "author": "Benoit Zohar <benoit.zohar@gmail.com>",
     "license": "Apache",
     "scripts": {
