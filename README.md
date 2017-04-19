@@ -1,5 +1,5 @@
-# live-web-playground
-An auto-reloading simple web boilerplate (using Webpack) for quick JS/CSS demos.
+# Live Web Playground
+An auto-reloading simple web app boilerplate (using Webpack) for quick JS/CSS demos.
 
 
 ### Installation
