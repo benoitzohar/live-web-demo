@@ -1,5 +1,5 @@
 /********************************************************************
- * Live web demo (https://github.com/benoitzohar/live-web-demo)
+ * Live web demo (https://github.com/benoitzohar/live-web-playground)
  * Main js file | app.js
  ********************************************************************/
 
