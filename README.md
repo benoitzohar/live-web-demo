@@ -1,2 +1,29 @@
-# live-web-demo
-An auto-reloading web simple boilerplate (using gulp) for quick JS/CSS demos
+# live-web-playground
+An auto-reloading simple web boilerplate (using Webpack) for quick JS/CSS demos.
+
+
+### Installation
+
+```
+npm install
+```
+or
+```
+yarn
+```
+
+
+### Usage
+
+```
+npm start
+```
+
+or
+
+```
+yarn start
+```
+
+You can then open [localhost:8080](http://localhost:8080/) in your browser and start editing files in `/src`.
+The browser will be reloaded when you change a file.
