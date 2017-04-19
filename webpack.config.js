@@ -22,6 +22,9 @@ const config = {
             }
         ]
     },
+    devServer: {
+        contentBase: path.join(__dirname, 'src')
+    },
     plugins: [new ExtractTextPlugin('style.css')]
 };
 
