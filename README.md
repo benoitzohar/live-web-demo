@@ -49,3 +49,20 @@ then add this in `src/app.js`:
 ```js
 const lib = require('[library_name]');
 ```
+
+
+### Reset
+
+Once you've finished your demo, use this to fully reset the local repository:
+
+```
+npm run reset
+```
+or
+```
+yarn reset
+```
+
+
+> **Warning**  
+> This will permanently remove any change you made so make sure everything in there was temporary before running this command.

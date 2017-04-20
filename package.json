@@ -7,7 +7,8 @@
     "author": "Benoit Zohar <benoit.zohar@gmail.com>",
     "license": "Apache",
     "scripts": {
-        "start": "webpack-dev-server --colors"
+        "start": "webpack-dev-server --colors",
+        "reset": "git checkout -- .;git clean -df;"
     },
     "devDependencies": {
         "css-loader": "^0.28.0",
