@@ -4,6 +4,14 @@ An auto-reloading simple web app boilerplate (using Webpack) for quick JS/CSS de
 
 ### Installation
 
+Clone the repository locally:
+
+```
+git clone https://github.com/benoitzohar/live-web-playground.git
+```
+
+and install the dependencies:
+
 ```
 npm install
 ```
@@ -27,3 +35,17 @@ yarn start
 
 You can then open [localhost:8080](http://localhost:8080/) in your browser and start editing files in `/src`.
 The browser will be reloaded when you change a file.
+
+To import a new library :
+```
+npm install [library_name]
+```
+or
+```
+yarn add [library_name]
+```
+
+then add this in `src/app.js`:
+```js
+const lib = require('[library_name]');
+```
